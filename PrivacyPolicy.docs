@@ -1,0 +1,92 @@
+Below is a complete, App‑Store–ready Privacy Policy you can use. Replace bracketed fields before publishing.
+
+Privacy Policy for Nodeboard
+
+1. Who we are
+- Controller: [Company/Developer Name] (“we”, “us”, “our”)
+- App: Nodeboard (the “App”)
+- Contact: [contact@email], [postal address, optional]
+
+2. Scope
+This Privacy Policy explains how we collect, use, disclose, and safeguard information when you use the App on iOS and iPadOS. By using the App, you agree to the practices described here.
+
+3. What we collect
+We aim to collect the minimum amount of data necessary to provide the App.
+- Account and identifiers: We do not require an account and do not collect names, emails, or phone numbers inside the App.
+- Content you create: Notes, tasks, habits, finance entries, categories, goals, reminders, settings, and preferences are stored on your device. If you delete the App, this data may be removed from the device.
+- Device and diagnostics (optional): Crash logs and performance metrics may be collected via Apple or third‑party analytics (see “Analytics”).
+- Purchase information: When you purchase a subscription via Apple’s in‑app purchase (IAP), Apple processes your payment information. We receive non‑financial purchase status (e.g., active, expired) but never receive your full payment details.
+- Notifications: If you enable notifications, Apple’s notification services deliver them to your device. We do not read your notifications.
+- Advertising identifiers: If you see ads (non‑Pro users), ad networks may use identifiers to show and measure ads (see “Advertising”).
+
+We do not knowingly collect sensitive personal information (e.g., health, biometric, precise location) through the App.
+
+4. How we use information
+- Provide core functionality: save, display, and manage your content and settings locally on your device.
+- Purchases and subscriptions: verify your subscription status and entitlements.
+- Notifications: schedule and deliver reminders you request.
+- Security and integrity: protect against fraud, abuse, and technical issues.
+- Analytics (if enabled): understand app performance and improve quality.
+- Legal compliance: comply with applicable laws and enforcement requests.
+
+5. Processing on your device
+Most App data (content you create and preferences) is processed and stored locally on your device. We do not run a cloud backend for your content unless explicitly stated in this policy or you opt into a specific cloud feature in the future.
+
+6. Sharing and disclosure
+We do not sell your personal information.
+We may share limited data with:
+- Apple: for purchases, subscriptions, and notifications.
+- Service providers: analytics and crash reporting providers that help us operate and improve the App under confidentiality obligations.
+- Legal: if required by law, court order, or to protect rights, safety, and property.
+
+7. Analytics
+If enabled, we may use privacy‑respecting analytics and/or Apple’s diagnostic tools to collect aggregated usage and performance data (e.g., device type, OS version, crash data, app interactions). This helps us improve stability and user experience. You can disable Apple analytics in iOS Settings.
+
+8. Advertising (for non‑Pro users)
+The App may show ads to non‑Pro users. Ad networks may use device identifiers to deliver and measure ads. You can limit ad tracking via iOS Settings > Privacy & Security > Tracking and per‑app permissions. Purchasing Pro removes ads in the App experience.
+
+9. Subscriptions and payments
+Subscriptions are processed by Apple. We do not store your full payment information. Apple provides us with subscription status only. For details on Apple’s data practices, see Apple’s privacy policy.
+
+10. Data retention
+- On‑device content: retained until you delete it or remove the App.
+- Subscription records: retained as long as necessary for entitlement verification and compliance.
+- Analytics/crash data: retained for a limited period necessary for diagnostics and improvement, then aggregated or deleted.
+
+11. Your rights and choices
+Depending on your region, you may have rights to access, correct, delete, or restrict processing of your personal information.
+- Access/Correction/Deletion: Manage most data directly in the App (edit or delete your content). To request deletion of diagnostics or other data we control, contact us at [contact@email].
+- Notifications: Enable or disable in iOS Settings.
+- Analytics and tracking: Manage via iOS privacy settings.
+- Subscriptions: Manage or cancel in iOS Settings > Apple ID > Subscriptions.
+
+12. Children’s privacy
+The App is not directed to children under the age required by local law (e.g., 13 or 16). We do not knowingly collect personal information from children. If you believe a child provided information, contact us to delete it.
+
+13. International transfers
+If we use service providers outside your country, your information may be processed in other jurisdictions, which may have different data protection laws. We take steps to ensure appropriate safeguards where required.
+
+14. Security
+We use reasonable technical and organizational measures to protect information. No method of transmission or storage is 100% secure. You are responsible for securing your device and backups.
+
+15. Third‑party links
+The App may contain links to third‑party websites or services. We are not responsible for their privacy practices. Review their policies before providing personal information.
+
+16. Changes to this policy
+We may update this Privacy Policy from time to time. Material changes will be indicated by updating the “Effective date.” Continued use of the App after changes means you accept the updated policy.
+
+17. Contact
+If you have questions or requests about this Privacy Policy or your data:
+- Email: [contact@email]
+- Address: [postal address, optional]
+
+Regional Disclosures
+
+EEA/UK (GDPR)
+- Legal bases: We process data as necessary to perform the contract (provide the App), based on your consent (e.g., notifications, analytics), to comply with legal obligations, and for our legitimate interests (e.g., security, diagnostics).
+- Your rights: access, rectification, erasure, restriction, portability, objection, and withdrawal of consent at any time (without affecting prior processing). You may lodge a complaint with your local supervisory authority.
+
+California (CCPA/CPRA)
+- We do not sell or “share” personal information for cross‑context behavioral advertising as defined by CPRA.
+- You may request access, correction, or deletion of personal information we control by contacting [contact@email].
+- Non‑discrimination: We will not discriminate against you for exercising your privacy rights.
