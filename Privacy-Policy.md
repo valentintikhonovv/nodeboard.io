@@ -1,6 +1,6 @@
-Below is a complete, App‑Store–ready Privacy Policy you can use. Replace bracketed fields before publishing.
-
 Privacy Policy for Nodeboard
+
+Below is a complete, App‑Store–ready Privacy Policy you can use. Replace bracketed fields before publishing.
 
 1. Who we are
 - Controller: [Company/Developer Name] (“we”, “us”, “our”)
